@@ -4,12 +4,6 @@ This repository contains the supplementary materials associated with the paper:
 
 "TRUNK: A Skin-Muscle-Inspired Shared Compliant Interface for Cooperative Multi-Mechanism Grasping"
 
-## Notice
-
-The demonstration videos are currently being uploaded and may not yet be available in the repository. Additional grasping demonstrations and experimental videos will be added in a future update.
-
----
-
 ## Repository Structure
 
 ### Experiment-1
@@ -57,9 +51,14 @@ Contents:
 - Object category references
 - Representative grasping examples
 - Experimental records used in Experiment 4
-- Demonstration videos (uploading)
 
 Note: Photographs of representative benchmark objects are provided in this folder. The complete object list, category labels, and experimental records are available in the accompanying data files.
+
+Supplementary Videos: Nine representative grasping demonstrations comparing the parallel-jaw gripper, suction gripper, and TRUNK gripper have been published as a YouTube playlist:
+
+https://www.youtube.com/playlist?list=PLYqu1k8GAO_Fbvf9aUCap5UW2DYVqaok7
+
+These videos are provided for qualitative visualization only and are not part of the quantitative experimental data reported in the paper.
 
 ---
 
